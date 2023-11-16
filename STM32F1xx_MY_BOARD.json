@@ -1,0 +1,1 @@
+{"driver":"STM32F1xx","URL":"https://github.com/grblHAL/STM32F1xx","board":"my_cpu_map.h","symbols":["USE_HAL_DRIVER","NVS_SIZE=1536","STM32F103xB","RX_BUFFER_SIZE=512","NO_SETTINGS_DESCRIPTIONS","USB_SERIAL_CDC=1","PROBE_ENABLE=1","ESTOP_ENABLE=1"],"docker_instance":"","grblHAL":"webBuilder"}
