@@ -1,5 +1,5 @@
 /*
-  generic_map.h - driver code for STM32F103xx ARM processors
+  my_cpu_map.h - driver code for STM32F103xx ARM processors
 
   Part of grblHAL
 
