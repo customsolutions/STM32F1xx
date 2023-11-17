@@ -54,7 +54,7 @@
       }
     },
      {
-      "name": "CNC 3040 (Red/Bluepill 128K)",
+      "name": "CNC 3040 (Purple pill 128K)",
       "symbol": "BOARD_CNC3040",
       "URL": "https://github.com/shaise/GrblCNC",
       "MAP": "Inc/cnc3040_map.h",
