@@ -22,6 +22,10 @@
 #if N_ABC_MOTORS > 1 || N_GANGED
 #error "Axis configuration is not supported!"
 #endif
+#define BOARD_NAME "my_cpu_map"
+
+#define BOARD_URL "hhttps://github.com/customsolutions/STM32F1xx/edit/master/Inc/my_cpu_map.h"
+
 
 // Define step pulse output pins.
 #define STEP_PORT               GPIOA
